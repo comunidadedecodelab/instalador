@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Canal Vem Fazer</h1>
-<img src="https://imgur.com/a/tTvlKjd" />
+<h1 align="center">🚀 Decode Lab</h1>
+<img src="https://imgur.com/8Je7N9h" />
 <h1 align="center"></h1> 
 
 
